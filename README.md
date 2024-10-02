@@ -1,18 +1,33 @@
 # RAGHub: A Community for Retrieval-Augmented Generation Frameworks
 
-Welcome to **RAGHub**, a living collection of frameworks, projects, and resources in the **Retrieval-Augmented Generation (RAG)** ecosystem. This is a **community-driven project for [r/RAG](https://www.reddit.com/r/Rag/)**, where we aim to catalog the rapid growth of RAG tools and projects.
+Welcome to **RAGHub**, a living collection of **new and emerging frameworks, projects, and resources** in the **Retrieval-Augmented Generation (RAG)** ecosystem. This is a **community-driven project for [r/RAG](https://www.reddit.com/r/Rag/)**, where we aim to catalog the rapid growth of RAG tools and projects that are pushing the boundaries of the field.
 
-With new frameworks popping up every day, it’s easy to feel overwhelmed by the sheer number of options. How do you manage it all? Each day, it feels like a new tool emerges, and choosing the right one is becoming more of an art than a science. Is the framework from three months ago still relevant? Or was it just hype, rehashing old concepts with a fresh look?
+Each day, it feels like a new tool or framework emerges, and choosing the right one is becoming more of an art than a science. Is the framework from three months ago still relevant? Or was it just hype, rehashing old concepts with a fresh look? **RAGHub exists to help you stay ahead of these changes**, providing a platform for the latest innovations in RAG.
 
-**RAGHub exists to help you stay ahead**. By contributing to this community resource, you can track, share, and discuss the latest RAG frameworks and projects, while helping others navigate the constantly shifting landscape.
+### Looking for Proven or Mainstream RAG Frameworks?
 
-## Why RAGHub?
+If you're looking for **proven, mainstream RAG frameworks and techniques**, check out the excellent repository by Nir Diamant: [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques). This repository focuses on more established tools and methods that have already gained traction in the community.
 
-The RAG ecosystem is evolving at breakneck speed. This repository is designed to provide a central place to:
+## New and Emerging RAG Frameworks
 
-- **Frameworks**: Track the latest and most relevant RAG frameworks.
-- **Projects**: Explore open-source projects implementing RAG methodologies.
-- **Sites and Resources**: Discover helpful articles, tutorials, and guides.
+| Framework Name | Description | Website | Reddit Post | Tags |
+|----------------|-------------|---------|-------------|------|
+| LangChain      | A framework for building applications with LLMs. | [Visit Site](https://langchain.com) | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_langchain) | Python, RAG |
+| Haystack       | A framework for building search engines using neural networks. | [Visit Site](https://haystack.deepset.ai) | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_haystack) | Python, RAG, NLP |
+
+## RAG Projects
+
+| Project Name | Description | GitHub Link | Tags |
+|--------------|-------------|-------------|------|
+| RAG Implementation by Company X | A project using RAG for document retrieval. | [GitHub](https://github.com/companyx/rag-project) | Python, RAG |
+| MyRAGProject  | A personal project implementing a custom RAG pipeline. | [GitHub](https://github.com/myusername/myragproject) | RAG, NLP |
+
+## RAG Resources and Sites
+
+| Site/Article | Description | Link |
+|--------------|-------------|------|
+| How to Implement RAG | An in-depth guide on implementing Retrieval-Augmented Generation. | [Read More](https://example.com/how-to-implement-rag) |
+| Understanding RAG for NLP | A tutorial for using RAG in NLP applications. | [Visit Site](https://example.com/rag-nlp) |
 
 ## How to Contribute
 
