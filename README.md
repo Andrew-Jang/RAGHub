@@ -16,28 +16,7 @@ The RAG ecosystem is evolving at breakneck speed. This repository is designed to
 
 ## How to Contribute
 
-This is a community project, and **we welcome contributions from everyone**! If you’d like to add a new framework, project, or resource, here’s how:
-
-1. **Fork this repository**.
-2. **Create a new branch**: `git checkout -b add-framework-yourname`.
-3. **Add your changes**:
-   - For frameworks, update `rag_frameworks.json`.
-   - For projects, update `rag_projects.json`.
-   - For articles or resources, update `rag_sites.md`.
-4. **Submit a pull request (PR)**: Once your changes are ready, submit a PR for review.
-
-### Contribution Format
-For frameworks, use the following JSON format:
-```json
-{
-  "name": "Framework Name",
-  "description": "A short description of the framework.",
-  "website": "https://example.com",
-  "tags": ["Python", "RAG", "LLM"]
-}
-```
-
-For projects, share the GitHub link or repository details. For sites and articles, add the URLs with a brief description.
+This is a community project, and **we welcome contributions from everyone**! If you’d like to add a new framework, project, or resource, please check out our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get started.
 
 ## License
 
@@ -45,7 +24,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Join the Conversation
 
-## Join the Conversation
-
 This project is part of the [r/RAG](https://www.reddit.com/r/Rag/) community. Have feedback or suggestions? Feel free to open an issue, start a discussion, or join the conversation on our [Discord server](https://discord.gg/nn92wC5QmN)! We want to make this repository a valuable resource for everyone exploring the RAG ecosystem, and your input is crucial.
-
