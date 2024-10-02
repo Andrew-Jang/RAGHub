@@ -19,15 +19,14 @@ If you're looking for **proven, mainstream RAG frameworks and techniques**, chec
 
 | Project Name | Description | GitHub Link | Tags |
 |--------------|-------------|-------------|------|
-| RAG Implementation by Company X | A project using RAG for document retrieval. | [GitHub](https://github.com/companyx/rag-project) | Python, RAG |
-| MyRAGProject  | A personal project implementing a custom RAG pipeline. | [GitHub](https://github.com/myusername/myragproject) | RAG, NLP |
+| contextual-doc-retrieval-opneai-reranker | ython-based system leveraging OpenAI GPT-4o and Cohere for re-ranking and query expansion, combined with BM25 for accurate document retrieval. It parses PDFs, chunks content contextually, and enhances search precision with AI-powered contextual understanding and re-ranking. | [GitHub](https://github.com/lesteroliver911/contextual-doc-retrieval-opneai-reranker) | Python, RAG |
 
 ## RAG Resources and Sites
 
 | Site/Article | Description | Link |
 |--------------|-------------|------|
-| How to Implement RAG | An in-depth guide on implementing Retrieval-Augmented Generation. | [Read More](https://example.com/how-to-implement-rag) |
-| Understanding RAG for NLP | A tutorial for using RAG in NLP applications. | [Visit Site](https://example.com/rag-nlp) |
+| RAG_Techniques | Showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. | [Read More](https://github.com/NirDiamant/RAG_Techniques) |
+| GenAI_Agents | [Visit Site](https://github.com/NirDiamant/GenAI_Agents) |
 
 ## How to Contribute
 
