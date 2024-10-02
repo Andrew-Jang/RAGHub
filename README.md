@@ -35,6 +35,7 @@ For frameworks, use the following JSON format:
   "website": "https://example.com",
   "tags": ["Python", "RAG", "LLM"]
 }
+```
 
 For projects, share the GitHub link or repository details. For sites and articles, add the URLs with a brief description.
 
