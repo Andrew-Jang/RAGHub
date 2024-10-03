@@ -15,6 +15,13 @@ If you're looking for **proven, mainstream RAG frameworks and techniques**, chec
 | LangChain      | A framework for building applications with LLMs. | [Visit Site](https://langchain.com) | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_langchain) | Python, RAG |
 | Haystack       | A framework for building search engines using neural networks. | [Visit Site](https://haystack.deepset.ai) | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_haystack) | Python, RAG, NLP |
 
+## RAG Evaluation Frameworks
+
+| Framework Name | Description | Website | github | Tags |
+|----------------|-------------|---------|-------------|------|
+| Trulens      | TruLens is a software tool that helps you objectively measure and enhance the quality of LLM-based applications using feedback functions, enabling faster and scalable evaluation for use cases like question answering, summarization, retrieval-augmented generation, and agent-based applications. | [Visit Site](https://www.trulens.org/) | [github](https://github.com/truera/trulens) | Python, RAG |
+| ragas       | Ragas is a framework for evaluating and quantifying the performance of Retrieval Augmented Generation (RAG) pipelines, which use external data to enhance the LLM’s context.| [Visit Site](https://docs.ragas.io/en/stable/) | [github](https://github.com/explodinggradients/ragas) | Python, RAG, NLP |
+
 ## RAG Projects
 
 | Project Name | Description | GitHub Link | Tags |
