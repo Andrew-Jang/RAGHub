@@ -22,6 +22,15 @@ If you're looking for **proven, mainstream RAG frameworks and techniques**, chec
 | Trulens        | TruLens is a software tool that helps you objectively measure and enhance the quality of LLM-based applications using feedback functions, enabling faster and scalable evaluation for use cases like question answering, summarization, retrieval-augmented generation, and agent-based applications. | [Visit Site](https://www.trulens.org/)         | [Github](https://github.com/truera/trulens)           | Python, RAG      |
 | ragas          | Ragas is a framework for evaluating and quantifying the performance of Retrieval Augmented Generation (RAG) pipelines, which use external data to enhance the LLM’s context.                                                                                                                          | [Visit Site](https://docs.ragas.io/en/stable/) | [Github](https://github.com/explodinggradients/ragas) | Python, RAG, NLP |
 
+
+## RAG Citation Frameworks
+
+| Framework Name    | Description                                                                                                                                                                                                                                                                   | GitHub Link                                              |  Tags        |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |--------------------------------------------------------- |------------- |
+| rag-citation      | RAG Citation is an project that combines Retrieval-Augmented Generation (RAG) with automatic citation generation. This tool is designed to enhance the credibility of RAG-generated content by providing relevant citations for the information used in generating responses. | [Github](https://github.com/rahulanand1103/rag-citation) | Python, RAG  | 
+
+
+
 ## RAG Engines
 
 | Framework Name | Description                                                                                                                          | Website                                               | GitHub Link                                     | Tags               |
