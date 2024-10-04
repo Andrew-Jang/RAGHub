@@ -33,10 +33,11 @@ If you're looking for **proven, mainstream RAG frameworks and techniques**, chec
 
 ## RAG Engines
 
-| Framework Name | Description                                                                                                                          | Website                                               | GitHub Link                                     | Tags               |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------- | ------------------ |
-| R2R            | R2R (RAG to Riches), the Elasticsearch for RAG is a complete platform that helps you quickly build and launch scalable RAG solutions | [Visit Site](https://r2r-docs.sciphi.ai/introduction) | [Github](https://github.com/SciPhi-AI/R2R)      | Python, RAG, Graph |
-| RAGFlow        | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.                          | [Visit Site](https://ragflow.io)                      | [Github](https://github.com/infiniflow/ragflow) | Python, RAG        |
+| Framework Name | Description                                                                                                                          | Website                                                         | GitHub Link                                                   | Tags               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------- | ------------------ |
+| R2R            | R2R (RAG to Riches), the Elasticsearch for RAG is a complete platform that helps you quickly build and launch scalable RAG solutions | [Visit Site](https://r2r-docs.sciphi.ai/introduction)           | [Github](https://github.com/SciPhi-AI/R2R)                    | Python, RAG, Graph |
+| RAGFlow        | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.                          | [Visit Site](https://ragflow.io)                                | [Github](https://github.com/infiniflow/ragflow)               | Python, RAG        |
+| Embedchain     | A framework for creating an AI app using your own data in just a minute and under 10 lines of code.                                  | [Visit Site](https://docs.embedchain.ai/get-started/quickstart) | [Github](https://github.com/mem0ai/mem0/tree/main/embedchain) | Python, RAG        |
 
 ## RAG Projects
 
