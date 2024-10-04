@@ -10,37 +10,37 @@ If you're looking for **proven, mainstream RAG frameworks and techniques**, chec
 
 ## New and Emerging RAG Frameworks
 
-| Framework Name | Description | Website | Reddit Post | Tags |
-|----------------|-------------|---------|-------------|------|
-| LangChain      | A framework for building applications with LLMs. | [Visit Site](https://langchain.com) | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_langchain) | Python, RAG |
-| Haystack       | A framework for building search engines using neural networks. | [Visit Site](https://haystack.deepset.ai) | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_haystack) | Python, RAG, NLP |
+| Framework Name | Description                                                    | Website                                   | Reddit Post                                                                  | Tags             |
+| -------------- | -------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- | ---------------- |
+| LangChain      | A framework for building applications with LLMs.               | [Visit Site](https://langchain.com)       | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_langchain) | Python, RAG      |
+| Haystack       | A framework for building search engines using neural networks. | [Visit Site](https://haystack.deepset.ai) | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_haystack)  | Python, RAG, NLP |
 
 ## RAG Evaluation Frameworks
 
-| Framework Name | Description | Website | GitHub Link  | Tags |
-|----------------|-------------|---------|-------------|------|
-| Trulens      | TruLens is a software tool that helps you objectively measure and enhance the quality of LLM-based applications using feedback functions, enabling faster and scalable evaluation for use cases like question answering, summarization, retrieval-augmented generation, and agent-based applications. | [Visit Site](https://www.trulens.org/) | [Github](https://github.com/truera/trulens) | Python, RAG |
-| ragas       | Ragas is a framework for evaluating and quantifying the performance of Retrieval Augmented Generation (RAG) pipelines, which use external data to enhance the LLM’s context.| [Visit Site](https://docs.ragas.io/en/stable/) | [Github](https://github.com/explodinggradients/ragas) | Python, RAG, NLP |
+| Framework Name | Description                                                                                                                                                                                                                                                                                           | Website                                        | GitHub Link                                           | Tags             |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------- | ---------------- |
+| Trulens        | TruLens is a software tool that helps you objectively measure and enhance the quality of LLM-based applications using feedback functions, enabling faster and scalable evaluation for use cases like question answering, summarization, retrieval-augmented generation, and agent-based applications. | [Visit Site](https://www.trulens.org/)         | [Github](https://github.com/truera/trulens)           | Python, RAG      |
+| ragas          | Ragas is a framework for evaluating and quantifying the performance of Retrieval Augmented Generation (RAG) pipelines, which use external data to enhance the LLM’s context.                                                                                                                          | [Visit Site](https://docs.ragas.io/en/stable/) | [Github](https://github.com/explodinggradients/ragas) | Python, RAG, NLP |
 
 ## RAG Engines
-| Framework Name | Description | Website | GitHub Link  | Tags |
-|----------------|-------------|---------|-------------|------|
-| R2R      | R2R (RAG to Riches), the Elasticsearch for RAG is a complete platform that helps you quickly build and launch scalable RAG solutions| [Visit Site](https://r2r-docs.sciphi.ai/introduction) | [Github](https://github.com/SciPhi-AI/R2R) | Python, RAG, Graph |
-| RAGFlow       | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | [Visit Site](https://ragflow.io) | [Github](https://github.com/infiniflow/ragflow) | Python, RAG |
 
+| Framework Name | Description                                                                                                                          | Website                                               | GitHub Link                                     | Tags               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------- | ------------------ |
+| R2R            | R2R (RAG to Riches), the Elasticsearch for RAG is a complete platform that helps you quickly build and launch scalable RAG solutions | [Visit Site](https://r2r-docs.sciphi.ai/introduction) | [Github](https://github.com/SciPhi-AI/R2R)      | Python, RAG, Graph |
+| RAGFlow        | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.                          | [Visit Site](https://ragflow.io)                      | [Github](https://github.com/infiniflow/ragflow) | Python, RAG        |
 
 ## RAG Projects
 
-| Project Name | Description | GitHub Link | Tags |
-|--------------|-------------|-------------|------|
-| contextual-doc-retrieval-opneai-reranker | ython-based system leveraging OpenAI GPT-4o and Cohere for re-ranking and query expansion, combined with BM25 for accurate document retrieval. It parses PDFs, chunks content contextually, and enhances search precision with AI-powered contextual understanding and re-ranking. | [GitHub](https://github.com/lesteroliver911/contextual-doc-retrieval-opneai-reranker) | Python, RAG |
+| Project Name                             | Description                                                                                                                                                                                                                                                                         | GitHub Link                                                                           | Tags        |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------- |
+| contextual-doc-retrieval-opneai-reranker | Python-based system leveraging OpenAI GPT-4o and Cohere for re-ranking and query expansion, combined with BM25 for accurate document retrieval. It parses PDFs, chunks content contextually, and enhances search precision with AI-powered contextual understanding and re-ranking. | [GitHub](https://github.com/lesteroliver911/contextual-doc-retrieval-opneai-reranker) | Python, RAG |
 
 ## RAG Resources and Sites
 
-| Site/Article | Description | Link |
-|--------------|-------------|------|
+| Site/Article   | Description                                                                             | Link                                                      |
+| -------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | RAG_Techniques | Showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. | [Read More](https://github.com/NirDiamant/RAG_Techniques) |
-| GenAI_Agents | [Visit Site](https://github.com/NirDiamant/GenAI_Agents) |
+| GenAI_Agents   | [Visit Site](https://github.com/NirDiamant/GenAI_Agents)                                |
 
 ## How to Contribute
 
