@@ -25,8 +25,8 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 
 | Framework Name | Description                                                    | Website                                   | Reddit Post                                                                  | Tags             |
 | -------------- | -------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- | ---------------- |
-| LangChain      | A framework for building applications with LLMs.               | [Visit Site](https://langchain.com)       | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_langchain) | Python, RAG      |
-| Haystack       | A framework for building search engines using neural networks. | [Visit Site](https://haystack.deepset.ai) | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_haystack)  | Python, RAG, NLP |
+| LangChain      | A framework for building applications with LLMs.               | [Visit Site](https://langchain.com)       | [Reddit Discussion](https://www.reddit.com/r/LangChain/) | Python, RAG      |
+| Haystack       | A framework for building search engines using neural networks. | [Visit Site](https://haystack.deepset.ai) | [Reddit Discussion](https://www.reddit.com/r/HaystackCommunity/)  | Python, RAG, NLP |
 | LlamaIndex | A framework for building data-driven LLM applications | [Visit Site](https://www.llamaindex.ai/) | [Reddit Discussion](https://www.reddit.com/r/LlamaIndex/) | RAG, Python, TypeScript |
 
 ## RAG Evaluation Frameworks
@@ -70,8 +70,8 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 
 | Site/Article   | Description                                                                             | Link                                                      |
 | -------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| RAG_Techniques | Showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. | [Read More](https://github.com/NirDiamant/RAG_Techniques) |
-| GenAI_Agents   | [Visit Site](https://github.com/NirDiamant/GenAI_Agents)                                |
+| RAG_Techniques | Showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. | [Visit Site](https://github.com/NirDiamant/RAG_Techniques) |
+| GenAI_Agents   | Tutorials and implementations for various AI Agent techniques | [Visit Site](https://github.com/NirDiamant/GenAI_Agents)                                |
 
 
 ## RAG Use Cases Across Industries and Professions
