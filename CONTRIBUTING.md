@@ -9,7 +9,8 @@ We welcome contributions from everyone. If you'd like to add a new framework, pr
 1. **Fork this repository**.
 2. **Create a new branch**: Use a descriptive name for your branch. For example: `git checkout -b add-framework-yourname`.
 3. **Make your changes**: Update the appropriate section in the `README.md` by following the table format below.
-4. **Submit a pull request (PR)**: Once your changes are complete, submit a PR to the main branch for review.
+4. **Update the Table of Contents (TOC)**: If you are adding a new category or section, make sure to add a link to the TOC.
+5. **Submit a pull request (PR)**: Once your changes are complete, submit a PR to the main branch for review.
 
 ### Contribution Format
 
@@ -44,6 +45,19 @@ If you're adding a resource or an article, please add a new row to the Resources
 Example:
 ```md
 | How to Implement RAG | An in-depth guide on implementing Retrieval-Augmented Generation. | [Read More](https://example.com/how-to-implement-rag) | [Reddit Post](https://www.reddit.com/r/Rag/) |
+```
+### Updating the Table of Contents (TOC)
+
+If you're adding a new category or section, please ensure that you update the Table of Contents to reflect your changes. Use the following format to add new categories:
+
+```md
+- [New Category Name](#new-category-name)
+```
+
+For example, if you're adding a new section called RAG Best Practices, add it like this in the TOC:
+
+```md
+- [RAG Best Practices](#rag-best-practices)
 ```
 
 ### Final Steps
