@@ -14,6 +14,7 @@ If you're looking for **proven, mainstream RAG frameworks and techniques**, chec
 | -------------- | -------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- | ---------------- |
 | LangChain      | A framework for building applications with LLMs.               | [Visit Site](https://langchain.com)       | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_langchain) | Python, RAG      |
 | Haystack       | A framework for building search engines using neural networks. | [Visit Site](https://haystack.deepset.ai) | [Reddit Discussion](https://www.reddit.com/r/RAG/comments/example_haystack)  | Python, RAG, NLP |
+| LlamaIndex | A framework for building data-driven LLM applications | [Visit Site](https://www.llamaindex.ai/) | [Reddit Discussion](https://www.reddit.com/r/LlamaIndex/) | RAG, Python, TypeScript |
 
 ## RAG Evaluation Frameworks
 
