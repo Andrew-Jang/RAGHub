@@ -14,6 +14,7 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 - [RAG Optimization Frameworks](#rag-optimization-frameworks)
 - [RAG Citation Frameworks](#rag-citation-frameworks)
 - [RAG Engines](#rag-engines)
+- [RAG-Vectordb Search Reranker frameworks](#RAG-Vectordb-Search-Reranker-frameworks)
 - [RAG Projects](#rag-projects)
 - [RAG Resources](#rag-resources-and-sites)
 - [RAG Use Cases Across Industries and Professions](#rag-use-cases-across-industries-and-professions)
