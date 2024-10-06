@@ -60,6 +60,14 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 | Embedchain     | A framework for creating an AI app using your own data in just a minute and under 10 lines of code.                                  | [Visit Site](https://docs.embedchain.ai/get-started/quickstart) | [Github](https://github.com/mem0ai/mem0/tree/main/embedchain) | Python, RAG        |
 | Graphlit     | Graphlit is an API-first developer platform for building knowledge-driven AI applications and agents with LLMs.                                   | [Visit Site](https://www.graphlit.com) | [Github](https://github.com/graphlit) | Python, Node.js, .NET, RAG, Graph        |
 
+
+## RAG-Vectordb Search Reranker frameworks 
+
+| Framework Name | Description                                                                                                                                                                                                                                                                | GitHub Link                                                   | Tags               |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------ |
+| Flash-Rank     | Use state-of-the-art Pairwise or Listwise rerankers to improve search result accuracy. Re-rank results before passing them to LLMs. This is similar to how an app retrieves top-N candidates and refines the ranking. Tools like FlashRank can help optimize this process. | [Github](https://github.com/PrithivirajDamodaran/FlashRank)   | Python             |
+
+
 ## RAG Projects
 
 | Project Name                             | Description                                                                                                                                                                                                                                                                         | GitHub Link                                                                           | Tags        |
