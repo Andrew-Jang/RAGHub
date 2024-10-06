@@ -22,6 +22,12 @@ If you're looking for **proven, mainstream RAG frameworks and techniques**, chec
 | Trulens        | TruLens is a software tool that helps you objectively measure and enhance the quality of LLM-based applications using feedback functions, enabling faster and scalable evaluation for use cases like question answering, summarization, retrieval-augmented generation, and agent-based applications. | [Visit Site](https://www.trulens.org/)         | [Github](https://github.com/truera/trulens)           | Python, RAG      |
 | ragas          | Ragas is a framework for evaluating and quantifying the performance of Retrieval Augmented Generation (RAG) pipelines, which use external data to enhance the LLM’s context.                                                                                                                          | [Visit Site](https://docs.ragas.io/en/stable/) | [Github](https://github.com/explodinggradients/ragas) | Python, RAG, NLP |
 
+## RAG Optimization Frameworks
+
+| Framework Name | Description                                                                                                                                                                                                                                                                                           | Website                                        | GitHub Link                                           | Tags             |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------- | ---------------- |
+| AutoRAG        | End-to-end RAG optimization platform. Parsing & chunking optimization, RAG evaluation dataset generation, and deploy optimized RAG pipeline directly.                                                                                                                                                 | [Visit Site](https://auto-rag.com/)            | [Github](https://github.com/Marker-Inc-Korea/AutoRAG) | Python, RAG      |
+
 
 ## RAG Citation Frameworks
 
