@@ -4,9 +4,22 @@ Welcome to **RAGHub**, a living collection of **new and emerging frameworks, pro
 
 Each day, it feels like a new tool or framework emerges, and choosing the right one is becoming more of an art than a science. Is the framework from three months ago still relevant? Or was it just hype, rehashing old concepts with a fresh look? **RAGHub exists to help you stay ahead of these changes**, providing a platform for the latest innovations in RAG.
 
-### Looking for Proven or Mainstream RAG Frameworks?
+> **Looking for Proven or Mainstream RAG Frameworks?**
+> 
+> If you're looking for mainstream RAG frameworks and techniques**, check out the excellent repository by Nir Diamant: [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques). This repository focuses on more established tools and methods that have already gained traction in the community.
 
-If you're looking for **proven, mainstream RAG frameworks and techniques**, check out the excellent repository by Nir Diamant: [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques). This repository focuses on more established tools and methods that have already gained traction in the community.
+## Table of Contents
+- [RAG Frameworks](#new-and-emerging-rag-frameworks)
+- [RAG Evaluation Frameworks](#rag-evaluation-frameworks)
+- [RAG Optimization Frameworks](#rag-optimization-frameworks)
+- [RAG Citation Frameworks](#rag-citation-frameworks)
+- [RAG Engines](#rag-engines)
+- [RAG Projects](#rag-projects)
+- [RAG Resources](#rag-resources-and-sites)
+- [RAG Use Cases Across Industries and Professions](#rag-use-cases-across-industries-and-professions)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+- [Join the Conversation](#join-the-conversation)
 
 ## New and Emerging RAG Frameworks
 
@@ -59,6 +72,18 @@ If you're looking for **proven, mainstream RAG frameworks and techniques**, chec
 | -------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | RAG_Techniques | Showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. | [Read More](https://github.com/NirDiamant/RAG_Techniques) |
 | GenAI_Agents   | [Visit Site](https://github.com/NirDiamant/GenAI_Agents)                                |
+
+
+## RAG Use Cases Across Industries and Professions
+
+> _We are actively looking for contributors who have expertise in different industries and can share their insights into unique RAG use cases. If you have experience, please consider contributing!_
+
+This section highlights various real-world applications of RAG frameworks, showcasing how different industries and professions are leveraging Retrieval-Augmented Generation for their needs. From legal research to customer service, RAG technology is transforming workflows by combining large language models with specific, contextual data sources.
+
+- **Legal**: Automating contract review and case law research by retrieving relevant legal documents.
+- **Healthcare**: Assisting in medical diagnosis by retrieving relevant research papers and patient history.
+- **Finance**: Enhancing fraud detection through retrieving relevant transaction history and regulatory data.
+- **Customer Service**: Improving chatbot responses by retrieving company knowledge base and product data.
 
 ## How to Contribute
 
