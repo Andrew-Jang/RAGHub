@@ -14,38 +14,22 @@ We welcome contributions from everyone. If you'd like to add a new framework, pr
 
 ### Contribution Format
 
-#### For Frameworks:
-If you're adding a framework, please add a new row to the **Frameworks** table in the `README.md` using the following format:
+#### Adding a new resource (Frameworks, projects etc.):
+
+If you're adding a resource, please insert a new row into the correct category table in the README.md file, using the following format:
 
 ```md
-| Framework Name | A short description of the framework | [Website Link](https://example.com) | [Reddit Post](https://www.reddit.com/r/Rag/) | Python, RAG |
+| Framework Name | Description (max 80 char) | Website link | Github link | Github stars | Last activity on Github |
 ```
 
 Example:
+
 ```md
-| LangChain | A framework for building applications with LLMs. | [Visit Site](https://langchain.com) | [Reddit Discussion](https://www.reddit.com/r/Rag/) | Python, RAG |
+| LangChain | A framework for building applications with LLMs. | [Website](https://langchain.com) | [Github](https://github.com/langchain-ai/langchain) | 93.2k | 9h ago |
 ```
 
-#### For Projects:
-```md
-| Project Name | A short description of the project | [GitHub Link](https://github.com/project-link) | [Reddit Post](https://www.reddit.com/r/Rag/) | Tags (e.g., Python, RAG) |
-```
+If you don't see a category that fits your resource, feel free to create a new category by adding it both to the README.md and updating the Table of Contents accordingly.
 
-Example:
-```md
-| MyRAGProject | A personal project implementing a custom RAG pipeline. | [GitHub](https://github.com/myusername/myragproject) | [Reddit Discussion](https://www.reddit.com/r/Rag/) | RAG, NLP |
-```
-
-#### For Resources and Sites:
-If you're adding a resource or an article, please add a new row to the Resources and Sites table in the `README.md`:
-```md
-| Site/Article Title | A brief description of the resource | [Link](https://example.com) | [Reddit Post](https://www.reddit.com/r/Rag/) |
-```
-
-Example:
-```md
-| How to Implement RAG | An in-depth guide on implementing Retrieval-Augmented Generation. | [Read More](https://example.com/how-to-implement-rag) | [Reddit Post](https://www.reddit.com/r/Rag/) |
-```
 ### Updating the Table of Contents (TOC)
 
 If you're adding a new category or section, please ensure that you update the Table of Contents to reflect your changes. Use the following format to add new categories:
