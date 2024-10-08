@@ -28,6 +28,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | NeMo-Guardrails | Toolkit for adding programmable guardrails to LLM-based applications | [Website](https://docs.nvidia.com/nemo-guardrails/) | [Github](https://github.com/NVIDIA/NeMo-Guardrails) | 4k    | Last week  |
 | Swiftide        | A Rust library for building fast, streaming applications with LLMs   | [Website](https://swiftide.rs)                      | [Github](https://github.com/bosun-ai/swiftide)      | 222   | 1h ago     |
 | Korvus          | The entire RAG pipeline in a single database query                   | [Website](https://postgresml.org)                   | [Github](https://github.com/postgresml/korvus)      | 1.3k  | Last month |
+| semantic-router | A framework for routing LLM requests using semantic vectors.         | [Website](https://www.aurelio.ai/semantic-router)   | [Github](https://github.com/aurelio-labs/semantic-router) | 2k    | 4h ago    |
 
 ## RAG Evaluation and Optimization Frameworks
 
