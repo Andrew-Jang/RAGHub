@@ -18,15 +18,16 @@ This is a community project, and **we welcome contributions from everyone**! If 
 
 ## RAG Frameworks
 
-| Name            | Description                                                          | Website                                             | Github                                              | Stars | Activity  |
-| --------------- | -------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ----- | --------- |
-| LangChain       | A framework for building applications with LLMs                      | [Website](https://langchain.com)                    | [Github](https://github.com/langchain-ai/langchain) | 93.2k | 9h ago    |
-| Haystack        | A framework for building search engines using neural networks        | [Website](https://haystack.deepset.ai)              | [Github](https://github.com/deepset-ai/haystack)    | 17k   | Last week |
-| LlamaIndex      | A framework for building data-driven LLM applications                | [Website](https://www.llamaindex.ai/)               | [Github](https://github.com/run-llama/llama_index)  | 35.9k | 7h ago    |
-| BentoML         | Build Inference APIs, LLM apps, Multi-model chains, RAG service      | [Website](https://www.bentoml.com/)                 | [Github](https://github.com/bentoml/BentoML)        | 7k    | 1h ago    |
-| Langroid        | Python framework to easily build LLM-powered applications            | [Website](https://langroid.github.io/langroid/)     | [Github](https://langchain.com)                     | 2.4k  | 10h ago   |
-| NeMo-Guardrails | Toolkit for adding programmable guardrails to LLM-based applications | [Website](https://docs.nvidia.com/nemo-guardrails/) | [Github](https://github.com/NVIDIA/NeMo-Guardrails) | 4k    | Last week |
-| Swiftide        | A Rust library for building fast, streaming applications with LLMs   | [Website](https://swiftide.rs)                      | [Github](https://github.com/bosun-ai/swiftide)      | 222   | 1h ago    |
+| Name            | Description                                                          | Website                                             | Github                                              | Stars | Activity   |
+| --------------- | -------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ----- | ---------- |
+| LangChain       | A framework for building applications with LLMs                      | [Website](https://langchain.com)                    | [Github](https://github.com/langchain-ai/langchain) | 93.2k | 9h ago     |
+| Haystack        | A framework for building search engines using neural networks        | [Website](https://haystack.deepset.ai)              | [Github](https://github.com/deepset-ai/haystack)    | 17k   | Last week  |
+| LlamaIndex      | A framework for building data-driven LLM applications                | [Website](https://www.llamaindex.ai/)               | [Github](https://github.com/run-llama/llama_index)  | 35.9k | 7h ago     |
+| BentoML         | Build Inference APIs, LLM apps, Multi-model chains, RAG service      | [Website](https://www.bentoml.com/)                 | [Github](https://github.com/bentoml/BentoML)        | 7k    | 1h ago     |
+| Langroid        | Python framework to easily build LLM-powered applications            | [Website](https://langroid.github.io/langroid/)     | [Github](https://langchain.com)                     | 2.4k  | 10h ago    |
+| NeMo-Guardrails | Toolkit for adding programmable guardrails to LLM-based applications | [Website](https://docs.nvidia.com/nemo-guardrails/) | [Github](https://github.com/NVIDIA/NeMo-Guardrails) | 4k    | Last week  |
+| Swiftide        | A Rust library for building fast, streaming applications with LLMs   | [Website](https://swiftide.rs)                      | [Github](https://github.com/bosun-ai/swiftide)      | 222   | 1h ago     |
+| Korvus          | The entire RAG pipeline in a single database query                   | [Website](https://postgresml.org)                   | [Github](https://github.com/postgresml/korvus)      | 1.3k  | Last month |
 
 ## RAG Evaluation and Optimization Frameworks
 
@@ -50,6 +51,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Flash-Rank   | Use Pairwise or Listwise rerankers to improve search accuracy before passing to LLMs.    |                                                              | [Github](https://github.com/PrithivirajDamodaran/FlashRank)   | 606   | 2w ago    |
 | Graphlit     | API-first platform for building knowledge-driven AI applications and agents              | [Website](https://www.graphlit.com)                          | [Github](https://github.com/graphlit)                         | 16    | 8h ago    |
 | rag-citation | Combines RAG with automatic citation generation to enhance content credibility           | [Website](https://pypi.org/project/rag-citation/)            | [Github](https://github.com/rahulanand1103/rag-citation)      | 6     | Last week |
+| PostgresML   | Postgres + GPUs with functions for chunking, embedding, transforming and ranking         | [Website](https://postgresml.org)                            | [Github](https://github.com/postgresml/postgresml)            | 6k    | Yesterday |
 
 ## RAG Projects
 
