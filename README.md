@@ -10,12 +10,9 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 
 ## Table of Contents
 
-- [RAG Frameworks](#new-and-emerging-rag-frameworks)
-- [RAG Evaluation Frameworks](#rag-evaluation-frameworks)
-- [RAG Optimization Frameworks](#rag-optimization-frameworks)
-- [RAG Citation Frameworks](#rag-citation-frameworks)
+- [RAG Frameworks](#rag-frameworks)
+- [RAG Evaluation and Optimization Frameworks](#rag-evaluation-and-optimization-frameworks)
 - [RAG Engines](#rag-engines)
-- [RAG-Vectordb Search Reranker frameworks](#RAG-Vectordb-Search-Reranker-frameworks)
 - [RAG Projects](#rag-projects)
 - [RAG Resources](#rag-resources-and-sites)
 - [RAG Use Cases Across Industries and Professions](#rag-use-cases-across-industries-and-professions)
@@ -23,7 +20,7 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 - [License](#license)
 - [Join the Conversation](#join-the-conversation)
 
-## New and Emerging RAG Frameworks
+## RAG Frameworks
 
 | Name       | Description                                                   | Website                                         | Github                                              | Stars | Activity  |
 | ---------- | ------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- | ----- | --------- |
@@ -32,39 +29,26 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 | LlamaIndex | A framework for building data-driven LLM applications         | [Website](https://www.llamaindex.ai/)           | [Github](https://github.com/run-llama/llama_index)  | 35.9k | 7h ago    |
 | Langroid   | Python framework to easily build LLM-powered applications     | [Website](https://langroid.github.io/langroid/) | [Github](https://langchain.com)                     | 2.4k  | 10h ago   |
 
-## RAG Evaluation Frameworks
+## RAG Evaluation and Optimization Frameworks
 
-| Name    | Description                                                                                           | Website                                     | GitHub                                                | Stars | Activity |
-| ------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------- | ----- | -------- |
-| Trulens | Measures and enhancse LLM app quality with feedback functions for scalable evaluation                 | [Website](https://www.trulens.org/)         | [Github](https://github.com/truera/trulens)           | 2.1k  | 11h ago  |
-| ragas   | Evaluates and quantifies the performance of RAG pipelines that enhance LLM context with external data | [Website](https://docs.ragas.io/en/stable/) | [Github](https://github.com/explodinggradients/ragas) | 6.8k  | 3h ago   |
-
-## RAG Optimization Frameworks
-
-| Name    | Description                                                                                          | Website                          | GitHub                                                | Stars | Activity |
-| ------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------- | ----- | -------- |
-| AutoRAG | End-to-end RAG optimization: parsing, chunking, evaluation dataset creation, and pipeline deployment | [Website](https://auto-rag.com/) | [Github](https://github.com/Marker-Inc-Korea/AutoRAG) | 1.6k  | 1h ago   |
-
-## RAG Citation Frameworks
-
-| Name         | Description                                                                    | Webite                                            | GitHub                                                   | Stars | Activity  |
-| ------------ | ------------------------------------------------------------------------------ | ------------------------------------------------- | -------------------------------------------------------- | ----- | --------- |
-| rag-citation | Combines RAG with automatic citation generation to enhance content credibility | [Website](https://pypi.org/project/rag-citation/) | [Github](https://github.com/rahulanand1103/rag-citation) | 6     | Last week |
+| Name       | Description                                                                                           | Website                                     | GitHub                                                | Stars | Activity |
+| ---------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------- | ----- | -------- |
+| Trulens    | Measures and enhancse LLM app quality with feedback functions for scalable evaluation                 | [Website](https://www.trulens.org/)         | [Github](https://github.com/truera/trulens)           | 2.1k  | 11h ago  |
+| ragas      | Evaluates and quantifies the performance of RAG pipelines that enhance LLM context with external data | [Website](https://docs.ragas.io/en/stable/) | [Github](https://github.com/explodinggradients/ragas) | 6.8k  | 3h ago   |
+| Deepchecks | Continuous validation of AI & ML models, detecting data drift and model issues                        | [Website](docs.deepchecks.com/stable)       | [Github](https://github.com/deepchecks/deepchecks)    | 3.6k  | 8m ago   |
+| AutoRAG    | End-to-end RAG optimization: parsing, chunking, evaluation dataset creation, and pipeline deployment  | [Website](https://auto-rag.com/)            | [Github](https://github.com/Marker-Inc-Korea/AutoRAG) | 1.6k  | 1h ago   |
 
 ## RAG Engines
 
-| Name       | Description                                                                          | Website                                                      | GitHub                                                        | Stars | Activity  |
-| ---------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------- | ----- | --------- |
-| R2R        | The Elasticsearch for RAG, helps you quickly build and launch scalable RAG solutions | [Website](https://r2r-docs.sciphi.ai/introduction)           | [Github](https://github.com/SciPhi-AI/R2R)                    | 3.4k  | 6h ago    |
-| RAGFlow    | Open-source RAG engine based on deep document understanding                          | [Website](https://ragflow.io)                                | [Github](https://github.com/infiniflow/ragflow)               | 18.7k | 1h ago    |
-| Embedchain | Open Source Framework for personalizing LLM responses under 10 lines of code         | [Website](https://docs.embedchain.ai/get-started/quickstart) | [Github](https://github.com/mem0ai/mem0/tree/main/embedchain) | 22.2k | Last week |
-| Graphlit   | API-first platform for building knowledge-driven AI applications and agents          | [Website](https://www.graphlit.com)                          | [Github](https://github.com/graphlit)                         | 16    | 8h ago    |
-
-## RAG-Vectordb Search Reranker frameworks
-
-| Name       | Description                                                                           | Website | GitHub                                                      | Stars | Activity   |
-| ---------- | ------------------------------------------------------------------------------------- | ------- | ----------------------------------------------------------- | ----- | ---------- |
-| Flash-Rank | Use Pairwise or Listwise rerankers to improve search accuracy before passing to LLMs. |         | [Github](https://github.com/PrithivirajDamodaran/FlashRank) | 606   | 2weeks ago |
+| Name         | Description                                                                              | Website                                                      | GitHub                                                        | Stars | Activity   |
+| ------------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------- | ----- | ---------- |
+| R2R          | The Elasticsearch for RAG, helps you quickly build and launch scalable RAG solutions     | [Website](https://r2r-docs.sciphi.ai/introduction)           | [Github](https://github.com/SciPhi-AI/R2R)                    | 3.4k  | 6h ago     |
+| RAGFlow      | Open-source RAG engine based on deep document understanding                              | [Website](https://ragflow.io)                                | [Github](https://github.com/infiniflow/ragflow)               | 18.7k | 1h ago     |
+| Embedchain   | Open Source Framework for personalizing LLM responses under 10 lines of code             | [Website](https://docs.embedchain.ai/get-started/quickstart) | [Github](https://github.com/mem0ai/mem0/tree/main/embedchain) | 22.2k | Last week  |
+| txtai        | All-in-one embeddings database for semantic search, LLM orchestration, and RAG workflows | [Website](https://neuml.github.io/txtai/)                    | [Github](https://github.com/neuml/txtai)                      | 8.8k  | Last week  |
+| Flash-Rank   | Use Pairwise or Listwise rerankers to improve search accuracy before passing to LLMs.    |                                                              | [Github](https://github.com/PrithivirajDamodaran/FlashRank)   | 606   | 2weeks ago |
+| Graphlit     | API-first platform for building knowledge-driven AI applications and agents              | [Website](https://www.graphlit.com)                          | [Github](https://github.com/graphlit)                         | 16    | 8h ago     |
+| rag-citation | Combines RAG with automatic citation generation to enhance content credibility           | [Website](https://pypi.org/project/rag-citation/)            | [Github](https://github.com/rahulanand1103/rag-citation)      | 6     | Last week  |
 
 ## RAG Projects
 
