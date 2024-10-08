@@ -26,6 +26,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | BentoML         | Build Inference APIs, LLM apps, Multi-model chains, RAG service      | [Website](https://www.bentoml.com/)                 | [Github](https://github.com/bentoml/BentoML)        | 7k    | 1h ago    |
 | Langroid        | Python framework to easily build LLM-powered applications            | [Website](https://langroid.github.io/langroid/)     | [Github](https://langchain.com)                     | 2.4k  | 10h ago   |
 | NeMo-Guardrails | Toolkit for adding programmable guardrails to LLM-based applications | [Website](https://docs.nvidia.com/nemo-guardrails/) | [Github](https://github.com/NVIDIA/NeMo-Guardrails) | 4k    | Last week |
+| Swiftide        | A Rust library for building fast, streaming applications with LLMs   | [Website](https://swiftide.rs)                      | [Github](https://github.com/bosun-ai/swiftide)      | 222   | 1h ago    |
 
 ## RAG Evaluation and Optimization Frameworks
 
