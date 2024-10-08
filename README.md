@@ -4,6 +4,10 @@ Welcome to **RAGHub**, a living collection of **new and emerging frameworks, pro
 
 Each day, it feels like a new tool or framework emerges, and choosing the right one is becoming more of an art than a science. Is the framework from three months ago still relevant? Or was it just hype, rehashing old concepts with a fresh look? **RAGHub exists to help you stay ahead of these changes**, providing a platform for the latest innovations in RAG.
 
+## How to Contribute
+
+This is a community project, and **we welcome contributions from everyone**! If you’d like to add a new framework, project, or resource, please check out our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get started.
+
 ## Table of Contents
 
 - [RAG Frameworks](#rag-frameworks)
@@ -11,7 +15,6 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 - [RAG Engines](#rag-engines)
 - [RAG Projects](#rag-projects)
 - [RAG Resources](#rag-resources-and-sites)
-- [How to Contribute](#how-to-contribute)
 
 ## RAG Frameworks
 
@@ -73,10 +76,6 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 | GenAI_Agents         | Tutorials and implementations for various AI Agent techniques                 | [Website](https://github.com/NirDiamant/GenAI_Agents)          |
 
 > If you're looking for mainstream RAG frameworks and techniques\*\*, check out the excellent repository by Nir Diamant: [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques). This repository focuses on more established tools and methods that have already gained traction in the community.
-
-## How to Contribute
-
-This is a community project, and **we welcome contributions from everyone**! If you’d like to add a new framework, project, or resource, please check out our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get started.
 
 ## License
 
