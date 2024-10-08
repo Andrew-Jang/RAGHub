@@ -12,8 +12,6 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 - [RAG Projects](#rag-projects)
 - [RAG Resources](#rag-resources-and-sites)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
-- [Join the Conversation](#join-the-conversation)
 
 ## RAG Frameworks
 
@@ -51,21 +49,20 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 
 ## RAG Projects
 
-| Name                                     | Description                                                            | Website                                                                  | GitHub                                                                                | Stars | Activity  |
-| ---------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ----- | --------- |
-| LlamaParse                               | GenAI-native document parsing platform                                 | [Website](https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/) | [Github](https://github.com/run-llama/llama_parse)                                    | 2.8k  | 2d ago    |
-| Langchain-extract                        | Web server to extract information from text and files using LLMs       | [Website](https://python.langchain.com/v0.1/docs/use_cases/extraction/)  | [Github](https://github.com/langchain-ai/langchain-extract)                           | 1k    | 4m ago    |
-| Verba                                    | RAG chatbot powered by Weaviate                                        | [Website](https://verba.weaviate.io/)                                    | [Github](https://github.com/weaviate/Verba)                                           | 6.1k  | 2w ago    |
-| Humata.ai                                | Ask questions across all of your document files                        | [Website](https://www.humata.ai/)                                        |                                                                                       |       | 4h ago    |
-| Ragie.ai                                 | Fully managed RAG-as-a-Service for developers.                         | [Website](https://www.ragie.ai/)                                         | [Github](https://github.com/ragieai)                                                  | 12    | 12h ago   |
-| Reducto                                  | Parses complex documents and creates LLM-ready inputs                  | [Website](https://reducto.ai/)                                           | [Github](https://github.com/reductoai)                                                | 16    | 2w ago    |
-| Midship                                  | Extract document data straight into your spreadsheet/erp/crm           | [Website](https://midship.ai/)                                           | [Github](https://github.com/midship-dev)                                              | -     | -         |
-| DocuPanda                                | Convert documents into a structured, standard set of fields and values | [Website](https://www.docupanda.io/)                                     | -                                                                                     | -     | -         |
-| contextual-doc-retrieval-opneai-reranker | Using GPT-4 and Cohere for query expansion and re-ranking with BM25    |                                                                          | [GitHub](https://github.com/lesteroliver911/contextual-doc-retrieval-opneai-reranker) | 20    | Last week |
+| Name                                     | Description                                                                   | Website                                                                  | GitHub                                                                                | Stars | Activity  |
+| ---------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ----- | --------- |
+| LlamaParse                               | GenAI-native document parsing platform                                        | [Website](https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/) | [Github](https://github.com/run-llama/llama_parse)                                    | 2.8k  | 2d ago    |
+| Langchain-extract                        | Web server to extract information from text and files using LLMs              | [Website](https://python.langchain.com/v0.1/docs/use_cases/extraction/)  | [Github](https://github.com/langchain-ai/langchain-extract)                           | 1k    | 4m ago    |
+| Unstructured.io                          | build custom preprocessing pipelines for labeling, training, or production ml | [Website](https://unstructured.io/)                                      | [Github](https://unstructured.io/)                                                    | 8.7k  | 3d ago    |
+| Verba                                    | RAG chatbot powered by Weaviate                                               | [Website](https://verba.weaviate.io/)                                    | [Github](https://github.com/weaviate/Verba)                                           | 6.1k  | 2w ago    |
+| Humata.ai                                | Ask questions across all of your document files                               | [Website](https://www.humata.ai/)                                        |                                                                                       |       | 4h ago    |
+| Ragie.ai                                 | Fully managed RAG-as-a-Service for developers.                                | [Website](https://www.ragie.ai/)                                         | [Github](https://github.com/ragieai)                                                  | 12    | 12h ago   |
+| Reducto                                  | Parses complex documents and creates LLM-ready inputs                         | [Website](https://reducto.ai/)                                           | [Github](https://github.com/reductoai)                                                | 16    | 2w ago    |
+| Midship                                  | Extract document data straight into your spreadsheet/erp/crm                  | [Website](https://midship.ai/)                                           | [Github](https://github.com/midship-dev)                                              | -     | -         |
+| DocuPanda                                | Convert documents into a structured, standard set of fields and values        | [Website](https://www.docupanda.io/)                                     | -                                                                                     | -     | -         |
+| contextual-doc-retrieval-opneai-reranker | Using GPT-4 and Cohere for query expansion and re-ranking with BM25           |                                                                          | [GitHub](https://github.com/lesteroliver911/contextual-doc-retrieval-opneai-reranker) | 20    | Last week |
 
 ## RAG Resources and Sites
-
-> If you're looking for mainstream RAG frameworks and techniques\*\*, check out the excellent repository by Nir Diamant: [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques). This repository focuses on more established tools and methods that have already gained traction in the community.
 
 | Site/Article         | Description                                                                   | Link                                                           |
 | -------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -74,6 +71,8 @@ Each day, it feels like a new tool or framework emerges, and choosing the right 
 | ColPali              | Efficient Document Retrieval with Vision Language Models                      | [Website](https://arxiv.org/abs/2407.01449)                    |
 | RAG_Techniques       | Showcases various advanced techniques for RAG systems                         | [Website](https://github.com/NirDiamant/RAG_Techniques)        |
 | GenAI_Agents         | Tutorials and implementations for various AI Agent techniques                 | [Website](https://github.com/NirDiamant/GenAI_Agents)          |
+
+> If you're looking for mainstream RAG frameworks and techniques\*\*, check out the excellent repository by Nir Diamant: [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques). This repository focuses on more established tools and methods that have already gained traction in the community.
 
 ## How to Contribute
 
