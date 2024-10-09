@@ -18,17 +18,17 @@ This is a community project, and **we welcome contributions from everyone**! If 
 
 ## RAG Frameworks
 
-| Name            | Description                                                          | Website                                             | Github                                              | Stars | Activity   |
-| --------------- | -------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ----- | ---------- |
-| LangChain       | A framework for building applications with LLMs                      | [Website](https://langchain.com)                    | [Github](https://github.com/langchain-ai/langchain) | 93.2k | 9h ago     |
-| Haystack        | A framework for building search engines using neural networks        | [Website](https://haystack.deepset.ai)              | [Github](https://github.com/deepset-ai/haystack)    | 17k   | Last week  |
-| LlamaIndex      | A framework for building data-driven LLM applications                | [Website](https://www.llamaindex.ai/)               | [Github](https://github.com/run-llama/llama_index)  | 35.9k | 7h ago     |
-| BentoML         | Build Inference APIs, LLM apps, Multi-model chains, RAG service      | [Website](https://www.bentoml.com/)                 | [Github](https://github.com/bentoml/BentoML)        | 7k    | 1h ago     |
-| Langroid        | Python framework to easily build LLM-powered applications            | [Website](https://langroid.github.io/langroid/)     | [Github](https://langchain.com)                     | 2.4k  | 10h ago    |
-| NeMo-Guardrails | Toolkit for adding programmable guardrails to LLM-based applications | [Website](https://docs.nvidia.com/nemo-guardrails/) | [Github](https://github.com/NVIDIA/NeMo-Guardrails) | 4k    | Last week  |
-| Swiftide        | A Rust library for building fast, streaming applications with LLMs   | [Website](https://swiftide.rs)                      | [Github](https://github.com/bosun-ai/swiftide)      | 222   | 1h ago     |
-| Korvus          | The entire RAG pipeline in a single database query                   | [Website](https://postgresml.org)                   | [Github](https://github.com/postgresml/korvus)      | 1.3k  | Last month |
-| semantic-router | A framework for routing LLM requests using semantic vectors.         | [Website](https://www.aurelio.ai/semantic-router)   | [Github](https://github.com/aurelio-labs/semantic-router) | 2k    | 4h ago    |
+| Name            | Description                                                          | Website                                             | Github                                                    | Stars | Activity   |
+| --------------- | -------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------- | ----- | ---------- |
+| LangChain       | A framework for building applications with LLMs                      | [Website](https://langchain.com)                    | [Github](https://github.com/langchain-ai/langchain)       | 93.2k | 9h ago     |
+| Haystack        | A framework for building search engines using neural networks        | [Website](https://haystack.deepset.ai)              | [Github](https://github.com/deepset-ai/haystack)          | 17k   | Last week  |
+| LlamaIndex      | A framework for building data-driven LLM applications                | [Website](https://www.llamaindex.ai/)               | [Github](https://github.com/run-llama/llama_index)        | 35.9k | 7h ago     |
+| BentoML         | Build Inference APIs, LLM apps, Multi-model chains, RAG service      | [Website](https://www.bentoml.com/)                 | [Github](https://github.com/bentoml/BentoML)              | 7k    | 1h ago     |
+| Langroid        | Python framework to easily build LLM-powered applications            | [Website](https://langroid.github.io/langroid/)     | [Github](https://langchain.com)                           | 2.4k  | 10h ago    |
+| NeMo-Guardrails | Toolkit for adding programmable guardrails to LLM-based applications | [Website](https://docs.nvidia.com/nemo-guardrails/) | [Github](https://github.com/NVIDIA/NeMo-Guardrails)       | 4k    | Last week  |
+| Swiftide        | A Rust library for building fast, streaming applications with LLMs   | [Website](https://swiftide.rs)                      | [Github](https://github.com/bosun-ai/swiftide)            | 222   | 1h ago     |
+| Korvus          | The entire RAG pipeline in a single database query                   | [Website](https://postgresml.org)                   | [Github](https://github.com/postgresml/korvus)            | 1.3k  | Last month |
+| semantic-router | A framework for routing LLM requests using semantic vectors.         | [Website](https://www.aurelio.ai/semantic-router)   | [Github](https://github.com/aurelio-labs/semantic-router) | 2k    | 4h ago     |
 
 ## RAG Evaluation and Optimization Frameworks
 
@@ -69,6 +69,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Midship                                  | Extract document data straight into your spreadsheet/erp/crm                          | [Website](https://midship.ai/)                                           | [Github](https://github.com/midship-dev)                                              | -     | -         |
 | DocuPanda                                | Convert documents into a structured, standard set of fields and values                | [Website](https://www.docupanda.io/)                                     | -                                                                                     | -     | -         |
 | contextual-doc-retrieval-opneai-reranker | Using GPT-4 and Cohere for query expansion and re-ranking with BM25                   |                                                                          | [GitHub](https://github.com/lesteroliver911/contextual-doc-retrieval-opneai-reranker) | 20    | Last week |
+| Raggenie                                 | Low-code platform to build custom RAG-based AI applications                           | [Website](https://www.raggenie.com)                                      | [Github](https://github.com/sirocco-ventures/raggenie)                                | 60    | 10h ago   |
 
 ## RAG Resources and Sites
 
