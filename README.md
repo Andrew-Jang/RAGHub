@@ -82,6 +82,13 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | RAG_Techniques       | Showcases various advanced techniques for RAG systems                         | [Website](https://github.com/NirDiamant/RAG_Techniques)        |
 | GenAI_Agents         | Tutorials and implementations for various AI Agent techniques                 | [Website](https://github.com/NirDiamant/GenAI_Agents)          |
 
+## Model LeaderBoards
+
+| Name                | Description                  | Link                                                      |
+|---------------------|------------------------------|-----------------------------------------------------------|
+| Artificial Analysis | LLM Comparison               | [Website](https://artificialanalysis.ai)                  |
+| HuggingFace/mteb    | Embedding models leaderboard | [Website](https://huggingface.co/spaces/mteb/leaderboard) |
+
 > If you're looking for mainstream RAG frameworks and techniques\*\*, check out the excellent repository by Nir Diamant: [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques). This repository focuses on more established tools and methods that have already gained traction in the community.
 
 ## License
