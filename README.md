@@ -29,6 +29,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Swiftide        | A Rust library for building fast, streaming applications with LLMs   | [Website](https://swiftide.rs)                      | [Github](https://github.com/bosun-ai/swiftide)            | 222   | 1h ago     |
 | Korvus          | The entire RAG pipeline in a single database query                   | [Website](https://postgresml.org)                   | [Github](https://github.com/postgresml/korvus)            | 1.3k  | Last month |
 | semantic-router | A framework for routing LLM requests using semantic vectors.         | [Website](https://www.aurelio.ai/semantic-router)   | [Github](https://github.com/aurelio-labs/semantic-router) | 2k    | 4h ago     |
+| AWS Bedrock     | Service to build, scale, and deploy RAG-powered applications         | [Website](https://aws.amazon.com/bedrock/)          | -                                                         | -     | 1h ago     |
 
 ## RAG Evaluation and Optimization Frameworks
 
