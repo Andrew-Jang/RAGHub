@@ -32,6 +32,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Korvus                      | The entire RAG pipeline in a single database query                   | [Website](https://postgresml.org)                          | [Github](https://github.com/postgresml/korvus)            | 1.3k  | Last month |
 | semantic-router             | A framework for routing LLM requests using semantic vectors.         | [Website](https://www.aurelio.ai/semantic-router)          | [Github](https://github.com/aurelio-labs/semantic-router) | 2k    | 4h ago     |
 | AWS Bedrock Knowledge Bases | Service to build, scale, and deploy RAG-powered applications         | [Website](https://aws.amazon.com/bedrock/knowledge-bases/) | -                                                         | -     | 1h ago     |
+| langflow                    | A framework to build, scale, and deploy RAG and multi-agent AI apps. | [Website](https://www.langflow.org/)                       | [Github](https://github.com/langflow-ai/langflow)         | 31.4k | 1h ago     |
 
 ## RAG Evaluation and Optimization Frameworks
 
