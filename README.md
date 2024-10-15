@@ -43,6 +43,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | ragas      | Evaluates and quantifies the performance of RAG pipelines that enhance LLM context with external data | [Website](https://docs.ragas.io/en/stable/)    | [Github](https://github.com/explodinggradients/ragas) | 6.8k  | 3h ago   |
 | Deepchecks | Continuous validation of AI & ML models, detecting data drift and model issues                        | [Website](docs.deepchecks.com/stable)          | [Github](https://github.com/deepchecks/deepchecks)    | 3.6k  | 8m ago   |
 | AutoRAG    | End-to-end RAG optimization: parsing, chunking, evaluation dataset creation, and pipeline deployment  | [Website](https://auto-rag.com/)               | [Github](https://github.com/Marker-Inc-Korea/AutoRAG) | 1.6k  | 1h ago   |
+| evalmy.ai  | Fine tuned lightweight RAG evaluation service + python client lib                                     | [Website](https://www.evalmy.ai/)              | [Github](https://github.com/evalmy-ai/evalmyai-python) | --    | --       |
 
 ## RAG Engines
 
