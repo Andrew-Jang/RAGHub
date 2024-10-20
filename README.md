@@ -79,7 +79,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | contextual-doc-retrieval-opneai-reranker | Using GPT-4 and Cohere for query expansion and re-ranking with BM25                      |                                                                          | [GitHub](https://github.com/lesteroliver911/contextual-doc-retrieval-opneai-reranker) | 20    | Last week |
 | Raggenie                                 | Low-code platform to build custom RAG-based AI applications                              | [Website](https://www.raggenie.com)                                      | [Github](https://github.com/sirocco-ventures/raggenie)                                | 60    | 10h ago   |
 | Chunkr                                   | Vision model based PDF chunking and OCR, optimized for fast processing of large datasets | [Website](https://chunkr.ai)                                             | [Github](https://github.com/lumina-ai-inc/chunkr)                                     | 651   | 11h ago   |
-| tldw                                   | Open-Source project similar to NotebookLM | [Website](https://tldwproject.com)                                             | [Github]([https://github.com/lumina-ai-inc/chunkr](https://github.com/rmusser01/tldw)                                     | 267   | Yesterday   |
+| tldw                                   | Open-Source project similar to NotebookLM | [Website](https://tldwproject.com)                                             | [Github](https://github.com/rmusser01/tldw)                                     | 267   | Yesterday   |
 
 ## RAG Resources and Sites
 
