@@ -61,6 +61,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Graphlit                   | API-first platform for building knowledge-driven AI applications and agents              | [Website](https://www.graphlit.com)                                            | [Github](https://github.com/graphlit)                         | 16    | 8h ago    |
 | rag-citation               | Combines RAG with automatic citation generation to enhance content credibility           | [Website](https://pypi.org/project/rag-citation/)                              | [Github](https://github.com/rahulanand1103/rag-citation)      | 6     | Last week |
 | PostgresML                 | Postgres + GPUs with functions for chunking, embedding, transforming and ranking         | [Website](https://postgresml.org)                                              | [Github](https://github.com/postgresml/postgresml)            | 6k    | Yesterday |
+| chainlit                   | Build production-ready Conversational AI applications in minutes, not weeks              | [Website](https://chainlit.io/)                                                | [Github](https://github.com/Chainlit/chainlit)                | 7k    | 24 h ago  |
 
 ## RAG Projects
 
