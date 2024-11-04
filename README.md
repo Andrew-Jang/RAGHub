@@ -34,6 +34,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | AWS Bedrock Knowledge Bases | Service to build, scale, and deploy RAG-powered applications         | [Website](https://aws.amazon.com/bedrock/knowledge-bases/) | -                                                         | -     | 1h ago     |
 | langflow                    | A framework to build, scale, and deploy RAG and multi-agent AI apps. | [Website](https://www.langflow.org/)                       | [Github](https://github.com/langflow-ai/langflow)         | 31.4k | 1h ago     |
 | dspy                        | A framework to build language model apps with modular programming.   | [Website](https://dspy-docs.vercel.app/)                   | [Github](https://github.com/stanfordnlp/dspy)             | 17.8k | 13h ago    |
+| mem0                        | The Memory layer for your AI apps.                                   | [Website](https://mem0.ai/)                                | [Github](https://github.com/mem0ai/mem0)                  | 22.6k | 2h ago     |
 
 ## RAG Evaluation and Optimization Frameworks
 
