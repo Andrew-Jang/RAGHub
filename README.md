@@ -83,6 +83,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Raggenie                                 | Low-code platform to build custom RAG-based AI applications                              | [Website](https://www.raggenie.com)                                      | [Github](https://github.com/sirocco-ventures/raggenie)                                | 60    | 10h ago   |
 | Chunkr                                   | Vision model based PDF chunking and OCR, optimized for fast processing of large datasets | [Website](https://chunkr.ai)                                             | [Github](https://github.com/lumina-ai-inc/chunkr)                                     | 651   | 11h ago   |
 | tldw                                   | Open-Source project similar to NotebookLM | [Website](https://tldwproject.com)                                             | [Github](https://github.com/rmusser01/tldw)                                     | 267   | Yesterday   |
+| Cerbos| Access control for RAG and LLMs. | [Website](https://solutions.cerbos.dev/authorization-in-rag-based-ai-systems-with-cerbos)| [GitHub](https://github.com/cerbos/cerbos)  | 3200| 14h ago |
 
 ## RAG Resources and Sites
 
