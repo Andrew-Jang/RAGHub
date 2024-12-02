@@ -67,6 +67,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | pathway                    | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. | [Website](https://pathway.com/)                                                | [Github](https://github.com/pathwaycom/pathway)               | 4.3k  | 7 h ago   |
 | cognita                    | RAG framework for modular, open-source production apps.                                  | [Website](https://cognita.truefoundry.com/)                                    | [Github](https://github.com/truefoundry/cognita)              | 3.3k  | 2 days ago|
 | FlashRAG                   | A Python Toolkit for Efficient RAG Research                                              | -                                                                              | [Github](https://github.com/RUC-NLPIR/FlashRAG)               | 1.3k  | 3 hour ago|
+| RAGatouille                | Easily train and use advanced retrieval methods in any RAG pipeline.                     | -                                                                              | [Github](https://github.com/RUC-NLPIR/FlashRAG)               | 3.1k  | 4 months ago|
 
 ## RAG Projects
 
