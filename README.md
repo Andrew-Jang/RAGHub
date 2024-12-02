@@ -47,6 +47,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | AutoRAG    | End-to-end RAG optimization: parsing, chunking, evaluation dataset creation, and pipeline deployment  | [Website](https://auto-rag.com/)               | [Github](https://github.com/Marker-Inc-Korea/AutoRAG) | 1.6k  | 1h ago   |
 | evalmy.ai  | Fine tuned lightweight RAG evaluation service + python client lib                                     | [Website](https://www.evalmy.ai/)              | [Github](https://github.com/evalmy-ai/evalmyai-python)| --    | --       |
 | TextGrad   | A Framework for LLM-based text optimization,focusing on reducing hallucinations, and improving prompt.| [Website](https://textgrad.com/)               | [Github](https://github.com/zou-group/textgrad)       | 1.7k  | 24h ago  |
+|langfuse    | Traces, evals, prompt management and metrics to debug and improve your LLM application.               | [Website](https://langfuse.com/)               | [Github](https://github.com/langfuse/langfuse)        | 6.9k  | 1h ago  |
 
 ## RAG Engines
 
