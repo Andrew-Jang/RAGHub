@@ -10,11 +10,17 @@ This is a community project, and **we welcome contributions from everyone**! If 
 
 ## Table of Contents
 
-- [RAG Frameworks](#rag-frameworks)
-- [RAG Evaluation and Optimization Frameworks](#rag-evaluation-and-optimization-frameworks)
-- [RAG Engines](#rag-engines)
-- [RAG Projects](#rag-projects)
-- [RAG Resources](#rag-resources-and-sites)
+- [RAGHub: A Directory of Tools for Retrieval-Augmented Generation (RAG)](#raghub-a-directory-of-tools-for-retrieval-augmented-generation-rag)
+  - [How to Contribute](#how-to-contribute)
+  - [Table of Contents](#table-of-contents)
+  - [RAG Frameworks](#rag-frameworks)
+  - [RAG Evaluation and Optimization Frameworks](#rag-evaluation-and-optimization-frameworks)
+  - [RAG Engines](#rag-engines)
+  - [RAG Projects](#rag-projects)
+  - [RAG Resources and Sites](#rag-resources-and-sites)
+  - [Model LeaderBoards](#model-leaderboards)
+  - [License](#license)
+  - [Join the Conversation](#join-the-conversation)
 
 ## RAG Frameworks
 
@@ -91,6 +97,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | tldw                                   | Open-Source project similar to NotebookLM | [Website](https://tldwproject.com)                                             | [Github](https://github.com/rmusser01/tldw)                                     | 267   | Yesterday   |
 | Cerbos| Access control for RAG and LLMs. | [Website](https://solutions.cerbos.dev/authorization-in-rag-based-ai-systems-with-cerbos)| [GitHub](https://github.com/cerbos/cerbos)  | 3200| 14h ago |
 | extractous | Extremely fast data extraction for your AI applications | [Website](https://www.extractous.com/) | [Github](https://github.com/yobix-ai/extractous) | - | - |
+| SWIRL | AI Search & RAG for your workplace. Get AI insights from your company's knowledge instantly. | [Website](https://www.swirlaiconnect.com/) | [Github](https://github.com/swirlai/swirl-search) | 2.1K | 2w ago |
 
 ## RAG Resources and Sites
 
