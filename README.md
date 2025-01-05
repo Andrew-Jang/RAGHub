@@ -55,6 +55,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | evalmy.ai  | Fine tuned lightweight RAG evaluation service + python client lib                                     | [Website](https://www.evalmy.ai/)              | [Github](https://github.com/evalmy-ai/evalmyai-python)| --    | --       |
 | TextGrad   | A Framework for LLM-based text optimization,focusing on reducing hallucinations, and improving prompt.| [Website](https://textgrad.com/)               | [Github](https://github.com/zou-group/textgrad)       | 1.7k  | 24h ago  |
 |langfuse    | Traces, evals, prompt management and metrics to debug and improve your LLM application.               | [Website](https://langfuse.com/)               | [Github](https://github.com/langfuse/langfuse)        | 6.9k  | 1h ago  |
+| Vectara HHEM | Hallucination evaluation model for RAG | [Huggingface](https://huggingface.co/vectara/hallucination_evaluation_model) | -- | -- | -- |
 
 ## RAG Engines
 
@@ -77,6 +78,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | FlashRAG                   | A Python Toolkit for Efficient RAG Research                                              | -                                                                              | [Github](https://github.com/RUC-NLPIR/FlashRAG)               | 1.3k  | 3 hour ago|
 | RAGatouille                | Easily train and use advanced retrieval methods in any RAG pipeline.                     | -                                                                              | [Github](https://github.com/RUC-NLPIR/FlashRAG)               | 3.1k  | 4 months ago|
 | pgai                       | A suite of tools to develop RAG, semantic search, and other AI applications just in PostgreSQL | [Website](https://www.timescale.com/ai)                                  | [Github](https://github.com/timescale/pgai)                   | 2.6k  | 10 hours ago |
+| Vectara | The trusted RAG platform for quickly building AI assistants and agents. | [Website](https://www.vectara.com/) | [Github](https://github.com/vectara/)   | -  | - |
 
 ## RAG Projects
 
@@ -117,6 +119,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 |---------------------|------------------------------|-----------------------------------------------------------|
 | Artificial Analysis | LLM Comparison               | [Website](https://artificialanalysis.ai)                  |
 | HuggingFace/mteb    | Embedding models leaderboard | [Website](https://huggingface.co/spaces/mteb/leaderboard) |
+| Vectara Hallucination Leaderboard | Hallucination leaderboard for LLMs | [Website](https://github.com/vectara/hallucination-leaderboard) |
 
 > If you're looking for mainstream RAG frameworks and techniques\*\*, check out the excellent repository by Nir Diamant: [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques). This repository focuses on more established tools and methods that have already gained traction in the community.
 
