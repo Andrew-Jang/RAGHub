@@ -102,6 +102,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Cerbos| Access control for RAG and LLMs. | [Website](https://solutions.cerbos.dev/authorization-in-rag-based-ai-systems-with-cerbos)| [GitHub](https://github.com/cerbos/cerbos)  | 3200| 14h ago |
 | extractous | Extremely fast data extraction for your AI applications | [Website](https://www.extractous.com/) | [Github](https://github.com/yobix-ai/extractous) | - | - |
 | SWIRL | AI Search & RAG for your workplace. Get AI insights from your company's knowledge instantly. | [Website](https://www.swirlaiconnect.com/) | [Github](https://github.com/swirlai/swirl-search) | 2.1K | 2w ago |
+| ChatDOC PDF Parser | Precision PDF parsing that transforms documents into flawless structured data for RAG systems. | [Website](https://pdfparser.io/?src=github) | - | - | - |
 
 ## RAG Resources and Sites
 
