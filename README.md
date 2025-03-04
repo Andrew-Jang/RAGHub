@@ -16,6 +16,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
   - [RAG Frameworks](#rag-frameworks)
   - [RAG Evaluation and Optimization Frameworks](#rag-evaluation-and-optimization-frameworks)
   - [RAG Engines](#rag-engines)
+  - [RAG Data Preparation Frameworks](#rag-data-preparation-frameworks)
   - [RAG Projects](#rag-projects)
   - [RAG Resources and Sites](#rag-resources-and-sites)
   - [Model LeaderBoards](#model-leaderboards)
@@ -81,6 +82,14 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | RAGatouille                | Easily train and use advanced retrieval methods in any RAG pipeline.                     | -                                                                              | [Github](https://github.com/RUC-NLPIR/FlashRAG)               | 3.1k  | 4 months ago|
 | pgai                       | A suite of tools to develop RAG, semantic search, and other AI applications just in PostgreSQL | [Website](https://www.timescale.com/ai)                                  | [Github](https://github.com/timescale/pgai)                   | 2.6k  | 10 hours ago |
 | Vectara | The trusted RAG platform for quickly building AI assistants and agents. | [Website](https://www.vectara.com/) | [Github](https://github.com/vectara/)   | -  | - |
+
+## RAG Data Preparation Frameworks
+
+| Name       | Description                                                                                           | Website                                        | GitHub                                                | Stars | Activity |
+| ---------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------- | ----- | -------- |
+| CocoIndex    | ETL framework to build fresh index                 | [Website](https://cocoindex.io/)            | [Github](https://github.com/cocoindex-io/cocoindex)           | 40  | 1h ago  |
+
+
 
 ## RAG Projects
 
