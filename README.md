@@ -4,7 +4,7 @@ Welcome to **RAGHub**, a living collection of **new and emerging frameworks, pro
 
 Each day, it feels like a new tool or framework emerges, and choosing the right one is becoming more of an art than a science. Is the framework from three months ago still relevant? Or was it just hype, rehashing old concepts with a fresh look? **RAGHub exists to help you stay ahead of these changes**, providing a platform for the latest innovations in RAG.
 
-## How to Contribute
+## How to Contribute in so
 
 This is a community project, and **we welcome contributions from everyone**! If you’d like to add a new framework, project, or resource, please check out our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get started.
 
