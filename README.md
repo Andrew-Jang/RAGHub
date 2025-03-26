@@ -1,7 +1,7 @@
 RAGHub: A Directory of Tools for Retrieval-Augmented Generation (RAG)
 Welcome to RAGHub, a living collection of new and emerging frameworks, projects, and resources in the Retrieval-Augmented Generation (RAG) ecosystem. This is a community-driven project for r/RAG, where we aim to catalog the rapid growth of RAG tools and projects that are pushing the boundaries of the field.
 
-#This is a chnage
+#This is a chnage no
 
 Each day, it feels like a new tool or framework emerges, and choosing the right one is becoming more of an art than a science. Is the framework from three months ago still relevant? Or was it just hype, rehashing old concepts with a fresh look? RAGHub exists to help you stay ahead of these changes, providing a platform for the latest innovations in RAG.
 
