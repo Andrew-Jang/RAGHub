@@ -94,6 +94,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | --------- | ---------------------------------- | -------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | CocoIndex | ETL framework to build fresh index | [Website](https://cocoindex.io/) | [Github](https://github.com/cocoindex-io/cocoindex) | [![GitHub](https://img.shields.io/github/stars/cocoindex-io/cocoindex?color=5B5BD6)](https://github.com/cocoindex-io/cocoindex) | 1h ago   |
 | Gitana.io | Content platform for editorial approval and scheduled deployment of trained data sets to RAG vector DBs | [Website](https://gitana.io/) | - | - | - |
+| Chonkie   | No-nonsense, lightweight and fast RAG chunking library | [Website](https://chonkie.ai/) | [GitHub](https://github.com/chonkie-inc/chonkie) | [![GitHub stars](https://img.shields.io/github/stars/chonkie-inc/chonkie?style=social)](https://github.com/chonkie-inc/chonkie) | 1h ago |
 
 ## RAG Projects
 
