@@ -61,6 +61,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | langfuse     | Traces, evals, prompt management, and metrics to debug and improve your LLM application.               | [Website](https://langfuse.com/)                                             | [GitHub](https://github.com/langfuse/langfuse)         | ![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social)         | 1h ago   |
 | Vectara HHEM | Hallucination evaluation model for RAG                                                                 | [Huggingface](https://huggingface.co/vectara/hallucination_evaluation_model) | --                                                     | --                                                                                          | --       |
 | StepsTrack   | An Observability tool built to track, inspect, and visualize every steps in a pipeline                 | -                                                                            | [GitHub](https://github.com/lokwkin/steps-track)       | ![GitHub stars](https://img.shields.io/github/stars/lokwkin/steps-track?style=social)       | 15h ago  |
+| syftr        | Multi-objective end-to-end agentic RAG optimization.                 | -                                                                            | [GitHub](https://github.com/datarobot/syftr)       | ![GitHub stars](https://img.shields.io/github/stars/datarobot/syftr?style=social)       | 1h ago  |
 
 ## RAG Engines
 
