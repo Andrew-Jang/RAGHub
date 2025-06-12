@@ -126,6 +126,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Archive Agent                            | Open-source semantic file tracker with OCR + AI search. Smart indexer with RAG engine.                              | -                                                                                         | [GitHub](https://github.com/shredEngineer/Archive-Agent)                              | ![GitHub stars](https://img.shields.io/github/stars/shredEngineer/Archive-Agent?style=social)                              | -         |
 | MidrasAI | Simple API for Colpali, a multi-modal retrieval model. | - | [Github](https://github.com/ajac-zero/midrasai) | ![GitHub stars](https://img.shields.io/github/stars/ajac-zero/midrasai?style=social) | 6m ago |
 | EmbeddingBridge |Version control and migration tool for embeddings| - | [Github](https://github.com/ProgramComputer/EmbeddingBridge) | ![Github stars](https://img.shields.io/github/stars/ProgramComputer/EmbeddingBridge?style=social)|-|
+| RagsWorth | A spiffingly good, production-ready, secure, and embeddable AI chatbot. | [website](https://www.rdrocket.com) | [Github](https://github.com/RedDotRocket/RagsWorth) | ![GitHub stars](https://img.shields.io/github/stars/RedDotRocket/RagsWorth?style=social) | 1h ago |
 ## RAG Resources and Sites
 
 | Site/Article         | Description                                                                   | Link                                                           |
