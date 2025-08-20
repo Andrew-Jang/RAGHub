@@ -49,6 +49,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | cognee                      | Memory framework for building GraphRAG applications                | [Website](https://www.cognee.ai)                           | [GitHub](https://github.com/topoteretes/cognee)           | ![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)                                            | 2h ago     |
 | ragbits                     | Building blocks for rapid development of GenAI applications        | [Website](https://ragbits.deepsense.ai)                    | [GitHub](https://github.com/deepsense-ai/ragbits)         | ![GitHub stars](https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social)                                          | 1h ago     |
 | Interchange                 | End-to-end API for RAG, from document upload to search             | [Website](https://www.getinterchange.io)                   | [GitHub](https://github.com/getinterchange)               | [![GitHub](https://img.shields.io/github/stars/getinterchange?color=5B5BD6)](https://github.com/getinterchange)                 | 1h ago     |
+| ZeroEntropy                 | Rerankers, embeddings and end-to-end retrieval API             | [Website](https://docs.zeroentropy.dev)                   | [GitHub](https://github.com/orgs/zeroentropy-ai/repositories)               | -                 | 1h ago     |
 
 ## RAG Evaluation and Optimization Frameworks
 
@@ -66,6 +67,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Vectara HHEM | Hallucination evaluation model for RAG                                                                 | [Huggingface](https://huggingface.co/vectara/hallucination_evaluation_model) | --                                                     | --                                                                                          | --       |
 | StepsTrack   | An Observability tool built to track, inspect, and visualize every steps in a pipeline                 | -                                                                            | [GitHub](https://github.com/lokwkin/steps-track)       | ![GitHub stars](https://img.shields.io/github/stars/lokwkin/steps-track?style=social)       | 15h ago  |
 | syftr        | Multi-objective end-to-end agentic RAG optimization.                 | -                                                                            | [GitHub](https://github.com/datarobot/syftr)       | ![GitHub stars](https://img.shields.io/github/stars/datarobot/syftr?style=social)       | 1h ago  |
+| zbench        | Annotation and evaluation framework for retrieval and reranking                | [Website](https://docs.zeroentropy.dev)                                                                            | [GitHub](https://github.com/ZeroEntropy-AI/zbench)       | -       | 1h ago  |
 
 ## RAG Engines
 
@@ -94,6 +96,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Vectara                    | The trusted RAG platform for quickly building AI assistants and agents.                        | [Website](https://www.vectara.com/)                                           | [GitHub](https://github.com/vectara/)                         | -                                                                                                | -            |
 | mode                       | RAG framework with expert models, smart clustering,and efficient retrieval for small datasets. | -                                                                             | [GitHub](https://github.com/rahulanand1103/mode)              |![GitHub stars](https://img.shields.io/github/stars/rahulanand1103/mode?style=social)             | 2 days ago   |
 | haiku.rag                  | Open-Source RAG framework with monitoring, CLI, search, Q/A, MCP support on SQLite.            | -                                                                             | [Github](https://github.com/ggozad/haiku.rag)                 |![GitHub stars](https://img.shields.io/github/stars/ggozad/haiku.rag?style=social)                | 3h ago       |
+| ZeroEntropy AI                  | Open-Weight Rerankers, Embeddings and End-to-End Retrieval API          | [Website](https://docs.zeroentropy.dev)                                                                             | [Github](https://github.com/ZeroEntropy-AI)                 |   -     | 3h ago       |
 
 ## RAG Data Preparation Frameworks
 
@@ -131,6 +134,8 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | MidrasAI                                 | Simple API for Colpali, a multi-modal retrieval model.                                                             | - | [Github](https://github.com/ajac-zero/midrasai) | ![GitHub stars](https://img.shields.io/github/stars/ajac-zero/midrasai?style=social) | 6m ago |
 | EmbeddingBridge                          | Version control and migration tool for embeddings                                                                  | - | [Github](https://github.com/ProgramComputer/EmbeddingBridge) | ![Github stars](https://img.shields.io/github/stars/ProgramComputer/EmbeddingBridge?style=social)|-|
 | Stream-Rag-Agent                         | Streaming RAG Agent for Kafka                                                                                      | - | [Github](https://github.com/onurbaran/stream-rag-agent) | |-|
+| zchunk                        | Open-Source efficient LLM-based chunking  | [Website](https://docs.zeroentropy.dev) | [Github](https://github.com/ZeroEntropy-AI/zchunk) | - | 2h ago
+
 ## RAG Resources and Sites
 
 | Site/Article         | Description                                                                   | Link                                                           |
