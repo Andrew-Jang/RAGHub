@@ -135,6 +135,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | EmbeddingBridge                          | Version control and migration tool for embeddings                                                                  | - | [Github](https://github.com/ProgramComputer/EmbeddingBridge) | ![Github stars](https://img.shields.io/github/stars/ProgramComputer/EmbeddingBridge?style=social)|-|
 | Stream-Rag-Agent                         | Streaming RAG Agent for Kafka                                                                                      | - | [Github](https://github.com/onurbaran/stream-rag-agent) | |-|
 | zchunk                        | Open-Source efficient LLM-based chunking  | [Website](https://docs.zeroentropy.dev) | [Github](https://github.com/ZeroEntropy-AI/zchunk) | - | 2h ago
+| hydrot                          | A production-ready Retrieval-Augmented Generation (RAG) system designed for enterprise documentation, with first-class support for markdown content. Built with a microservices architecture for horizontal scaling and flexibility. | - | [Github](https://github.com/rjxby/hydrot) | ![Github stars](https://img.shields.io/github/stars/rjxby/hydrot?style=social)|-|
 
 ## RAG Resources and Sites
 
