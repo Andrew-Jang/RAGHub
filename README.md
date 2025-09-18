@@ -50,6 +50,8 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | ragbits                     | Building blocks for rapid development of GenAI applications        | [Website](https://ragbits.deepsense.ai)                    | [GitHub](https://github.com/deepsense-ai/ragbits)         | ![GitHub stars](https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social)                                          | 1h ago     |
 | Interchange                 | End-to-end API for RAG, from document upload to search             | [Website](https://www.getinterchange.io)                   | [GitHub](https://github.com/getinterchange)               | [![GitHub](https://img.shields.io/github/stars/getinterchange?color=5B5BD6)](https://github.com/getinterchange)                 | 1h ago     |
 | ZeroEntropy                 | Rerankers, embeddings and end-to-end retrieval API             | [Website](https://docs.zeroentropy.dev)                   | [GitHub](https://github.com/orgs/zeroentropy-ai/repositories)               | -                 | 1h ago     |
+| memori                     | Multi-Agent Memory Engine that gives your AI agents human-like memory         | [Website](https://memori.gibsonai.com/)                    | [GitHub](https://github.com/gibsonai/memori)              | ![GitHub stars](https://img.shields.io/github/stars/gibsonai/memori?style=social)                                              | 3d ago     |
+
 
 ## RAG Evaluation and Optimization Frameworks
 
