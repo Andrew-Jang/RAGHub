@@ -138,6 +138,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | Stream-Rag-Agent                         | Streaming RAG Agent for Kafka                                                                                      | - | [Github](https://github.com/onurbaran/stream-rag-agent) | |-|
 | zchunk                        | Open-Source efficient LLM-based chunking  | [Website](https://docs.zeroentropy.dev) | [Github](https://github.com/ZeroEntropy-AI/zchunk) | - | 2h ago
 | hydrot                          | A production-ready Retrieval-Augmented Generation (RAG) system designed for enterprise documentation, with first-class support for markdown content. Built with a microservices architecture for horizontal scaling and flexibility. | - | [Github](https://github.com/rjxby/hydrot) | ![Github stars](https://img.shields.io/github/stars/rjxby/hydrot?style=social)|-|
+| Tensorlake                         | Document parsing for citable, traceable RAG systems. Extracts text, tables, and images while maintaining complex layouts, attaching bounding box coordinates, and supporting structured output | [Website](https://www.tensorlake.ai/) | [Github](https://github.com/tensorlakeai) | ![Github stars](https://img.shields.io/github/stars/tensorlakeai/indexify?style=social) | 2d ago|
 
 ## RAG Resources and Sites
 
