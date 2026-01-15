@@ -70,6 +70,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | StepsTrack   | An Observability tool built to track, inspect, and visualize every steps in a pipeline                 | -                                                                            | [GitHub](https://github.com/lokwkin/steps-track)       | ![GitHub stars](https://img.shields.io/github/stars/lokwkin/steps-track?style=social)       | 15h ago  |
 | syftr        | Multi-objective end-to-end agentic RAG optimization.                 | -                                                                            | [GitHub](https://github.com/datarobot/syftr)       | ![GitHub stars](https://img.shields.io/github/stars/datarobot/syftr?style=social)       | 1h ago  |
 | zbench        | Annotation and evaluation framework for retrieval and reranking                | [Website](https://docs.zeroentropy.dev)                                                                            | [GitHub](https://github.com/ZeroEntropy-AI/zbench)       | -       | 1h ago  |
+| rag-select        | End-to-end RAG architecture evaluation/optimization across RAG tool offerings.                 | [Website](https://useconclude.com/engineering/rag-select)                                                                            | [GitHub](https://github.com/conclude-ai/rag-select)       | ![GitHub stars](https://img.shields.io/github/stars/conclude-ai/rag-select?style=social)       | 1h ago  |
 
 ## RAG Engines
 
