@@ -72,6 +72,7 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | syftr        | Multi-objective end-to-end agentic RAG optimization.                 | -                                                                            | [GitHub](https://github.com/datarobot/syftr)       | ![GitHub stars](https://img.shields.io/github/stars/datarobot/syftr?style=social)       | 1h ago  |
 | zbench        | Annotation and evaluation framework for retrieval and reranking                | [Website](https://docs.zeroentropy.dev)                                                                            | [GitHub](https://github.com/ZeroEntropy-AI/zbench)       | -       | 1h ago  |
 | rag-select        | End-to-end RAG architecture evaluation/optimization across RAG tool offerings.                 | [Website](https://useconclude.com/engineering/rag-select)                                                                            | [GitHub](https://github.com/conclude-ai/rag-select)       | ![GitHub stars](https://img.shields.io/github/stars/conclude-ai/rag-select?style=social)       | 1h ago  |
+| Raggit       | Monitor RAG production queries, write evals against the queries that matter, re-run on model swaps | [Website](https://pypi.org/project/raggit/)                                  | [GitHub](https://github.com/Joafac4/raggit)            | ![GitHub stars](https://img.shields.io/github/stars/Joafac4/raggit?style=social)            | 1h ago   |
 
 ## RAG Engines
 
