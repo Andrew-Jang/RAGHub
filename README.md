@@ -1,3 +1,8 @@
+
+## 🔒 Security
+
+- **[Zentric Protocol](https://zentricprotocol.com)** — Deterministic injection detection + PII redaction before every LLM call. One POST, 23ms, CLEARED/BLOCKED verdict. GDPR Art.30 signed audit record. Works with any RAG stack. Free tier: 10k req/month.
+
 # RAGHub: A Directory of Tools for Retrieval-Augmented Generation (RAG)
 
 Welcome to **RAGHub**, a living collection of **new and emerging frameworks, projects, and resources** in the **Retrieval-Augmented Generation (RAG)** ecosystem. This is a **community-driven project for [r/RAG](https://www.reddit.com/r/Rag/)**, where we aim to catalog the rapid growth of RAG tools and projects that are pushing the boundaries of the field.
