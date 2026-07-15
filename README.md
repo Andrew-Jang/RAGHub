@@ -222,6 +222,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 | zchunk                        | Open-Source efficient LLM-based chunking  | [Website](https://docs.zeroentropy.dev) | [Github](https://github.com/ZeroEntropy-AI/zchunk) | - | 2h ago
 | hydrot                          | A production-ready Retrieval-Augmented Generation (RAG) system designed for enterprise documentation, with first-class support for markdown content. Built with a microservices architecture for horizontal scaling and flexibility. | - | [Github](https://github.com/rjxby/hydrot) | ![Github stars](https://img.shields.io/github/stars/rjxby/hydrot?style=social)|-|
 | Tensorlake                         | Document parsing for citable, traceable RAG systems. Extracts text, tables, and images while maintaining complex layouts, attaching bounding box coordinates, and supporting structured output | [Website](https://www.tensorlake.ai/) | [Github](https://github.com/tensorlakeai) | ![Github stars](https://img.shields.io/github/stars/tensorlakeai/indexify?style=social) | 2d ago|
+| KV Cache Store                       | Hosted KV-cache artifact registry plus open-source Rust CLI. Precompute attention states once, verify bit-exact, and reuse across RAG and long-context prompts to cut prefill cost and latency. | [Website](https://kvcachestore.com) | [GitHub](https://github.com/kvcachestore/kvcdn) | ![GitHub stars](https://img.shields.io/github/stars/kvcachestore/kvcdn?style=social) | - |
 
 ## RAG Resources and Sites
 
