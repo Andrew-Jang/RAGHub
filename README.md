@@ -150,6 +150,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 | zbench        | Annotation and evaluation framework for retrieval and reranking                | [Website](https://docs.zeroentropy.dev)                                                                            | [GitHub](https://github.com/ZeroEntropy-AI/zbench)       | -       | 1h ago  |
 | rag-select        | End-to-end RAG architecture evaluation/optimization across RAG tool offerings.                 | [Website](https://useconclude.com/engineering/rag-select)                                                                            | [GitHub](https://github.com/conclude-ai/rag-select)       | ![GitHub stars](https://img.shields.io/github/stars/conclude-ai/rag-select?style=social)       | 1h ago  |
 | Raggit       | Monitor RAG production queries, write evals against the queries that matter, re-run on model swaps | [Website](https://pypi.org/project/raggit/)                                  | [GitHub](https://github.com/Joafac4/raggit)            | ![GitHub stars](https://img.shields.io/github/stars/Joafac4/raggit?style=social)            | 1h ago   |
+| legal-rag-audit | Fixed, hashed evaluation harness for legal RAG pipelines with offline scoring. | [Website](https://memonsystems.com/tools/#legal-rag-audit) | [GitHub](https://github.com/azterizm/legal-rag-audit) | ![GitHub stars](https://img.shields.io/github/stars/azterizm/legal-rag-audit?style=social) | - |
+| rag-security-probes | Security & isolation probe datasets testing cross-tenant leaks & fabrication. | [Website](https://memonsystems.com/tools/#rag-security-probes) | [GitHub](https://github.com/azterizm/rag-security-probes) | ![GitHub stars](https://img.shields.io/github/stars/azterizm/rag-security-probes?style=social) | - |
 
 ## RAG Engines
 
@@ -235,6 +237,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 | RAG_Techniques       | Showcases various advanced techniques for RAG systems                         | [Website](https://github.com/NirDiamant/RAG_Techniques)        |
 | GenAI_Agents         | Tutorials and implementations for various AI Agent techniques                 | [Website](https://github.com/NirDiamant/GenAI_Agents)          |
 | RAG From Scratch     | Official LangChain guide for building a RAG pipeline from scratch             | [Website](https://github.com/langchain-ai/rag-from-scratch)    |
+| Jev vs Sovereign RAG Benchmark | Empirical benchmark of cloud decision primitives vs local sovereign legal RAG. | [Website](https://memonsystems.com/journal/jev-system-one-vs-specialized-sovereign-rag-an-empirical-benchmark/) |
 
 
 ## Model LeaderBoards
