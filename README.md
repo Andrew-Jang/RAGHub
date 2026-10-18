@@ -224,6 +224,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 | Tensorlake                         | Document parsing for citable, traceable RAG systems. Extracts text, tables, and images while maintaining complex layouts, attaching bounding box coordinates, and supporting structured output | [Website](https://www.tensorlake.ai/) | [Github](https://github.com/tensorlakeai) | ![Github stars](https://img.shields.io/github/stars/tensorlakeai/indexify?style=social) | 2d ago|
 | KV Cache Store                       | Hosted KV-cache artifact registry plus open-source Rust CLI. Precompute attention states once, verify bit-exact, and reuse across RAG and long-context prompts to cut prefill cost and latency. | [Website](https://kvcachestore.com) | [GitHub](https://github.com/kvcachestore/kvcdn) | ![GitHub stars](https://img.shields.io/github/stars/kvcachestore/kvcdn?style=social) | - |
 | FastRAG | Starter kit for shipping RAG apps fast with Next.js, Pinecone & LangChain pre-configured. | [Website](https://www.fastrag.live/) | Closed-source | - | - |
+| Minimal RAG | Python RAG agent with SQLite BM25, search/read tools and inspectable traces | [Website](https://hxli2005.github.io/minimal-rag/) | [GitHub](https://github.com/hxli2005/minimal-rag) | ![GitHub stars](https://img.shields.io/github/stars/hxli2005/minimal-rag?style=social) | 2026-10-18 |
 
 ## RAG Resources and Sites
 
