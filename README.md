@@ -16,6 +16,8 @@ This is a community project, and **we welcome contributions from everyone**! If 
   - [RAG Frameworks](#rag-frameworks)
   - [RAG Evaluation and Optimization Frameworks](#rag-evaluation-and-optimization-frameworks)
   - [RAG Engines](#rag-engines)
+  - [RAG Data Preparation Frameworks](#rag-data-preparation-frameworks)
+  - [RAG Projects](#rag-projects)
   - [FAQ](#faq)
   - [RAG Resources and Sites](#rag-resources-and-sites)
   - [Model LeaderBoards](#model-leaderboards)
