@@ -188,6 +188,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 | Gitana.io | Content platform for editorial approval and scheduled deployment of trained data sets to RAG vector DBs | [Website](https://gitana.io/) | - | - | - |
 | Chonkie   | No-nonsense, lightweight and fast RAG chunking library | [Website](https://chonkie.ai/) | [GitHub](https://github.com/chonkie-inc/chonkie) | [![GitHub stars](https://img.shields.io/github/stars/chonkie-inc/chonkie?style=social)](https://github.com/chonkie-inc/chonkie) | 1h ago |
 | pdfmux | PDF-to-Markdown extraction with per-page confidence scoring and self-healing fallback. Built-in MCP server, LangChain + LlamaIndex loaders. #2 on opendataloader-bench. | [Website](https://pdfmux.com) | [GitHub](https://github.com/NameetP/pdfmux) | [![GitHub stars](https://img.shields.io/github/stars/NameetP/pdfmux?style=social)](https://github.com/NameetP/pdfmux) | 1d ago |
+| pdf-rag-chunks | PDF folder to JSONL chunks with page numbers, tables kept whole | - | [GitHub](https://github.com/plainrecordlabs/pdf-rag-chunks) | [![GitHub stars](https://img.shields.io/github/stars/plainrecordlabs/pdf-rag-chunks?style=social)](https://github.com/plainrecordlabs/pdf-rag-chunks) | - |
 
 ## RAG Projects
 
