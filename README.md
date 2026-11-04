@@ -150,6 +150,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 | zbench        | Annotation and evaluation framework for retrieval and reranking                | [Website](https://docs.zeroentropy.dev)                                                                            | [GitHub](https://github.com/ZeroEntropy-AI/zbench)       | -       | 1h ago  |
 | rag-select        | End-to-end RAG architecture evaluation/optimization across RAG tool offerings.                 | [Website](https://useconclude.com/engineering/rag-select)                                                                            | [GitHub](https://github.com/conclude-ai/rag-select)       | ![GitHub stars](https://img.shields.io/github/stars/conclude-ai/rag-select?style=social)       | 1h ago  |
 | Raggit       | Monitor RAG production queries, write evals against the queries that matter, re-run on model swaps | [Website](https://pypi.org/project/raggit/)                                  | [GitHub](https://github.com/Joafac4/raggit)            | ![GitHub stars](https://img.shields.io/github/stars/Joafac4/raggit?style=social)            | 1h ago   |
+| parsearena   | Compares PDF parsers (Docling, Marker, MinerU...) on your files and on retrieval | [Website](https://diegoperezg7.github.io/parsearena/) | [GitHub](https://github.com/diegoperezg7/parsearena) | ![GitHub stars](https://img.shields.io/github/stars/diegoperezg7/parsearena?style=social) | 1d ago   |
 
 ## RAG Engines
 
